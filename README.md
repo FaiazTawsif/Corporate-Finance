@@ -1,1 +1,2 @@
-# Corporate-Finance
+# Corporate Finance
+This report analyzes GPH Ispat Limited and BSRM Steels Limited's financial performance for 2018-2021. It examines Liquidity, Activity, Debt, Profitability, and Market Ratios, providing time-series and cross-sectional insights. The report compares the companies from managerial and investor perspectives, offering a comprehensive overview of their financial health and operational efficiency.
